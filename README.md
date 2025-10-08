@@ -12,8 +12,8 @@
     </header>
     <main>
         <section>
-            <h2>tenho 16 anos, moro em cuiabá mt, estudo na escola tiradentes cuiabá.</h2>
-            <p>Escreva um breve texto sobre quem você é.</p>
+            <h2>sobre mim.</h2>
+            <p>Victor 16 anos, moro em cuiabá mt, sou estudante da escola militar tiradentes no curso de desenvolvimento de sistemas, espero conseguir me profissionalizar por meio desse curso. gosto de jogos e redes socias, pretendo fazer faculdade de psicologia e um doutorado. .</p>
         </section>
         <section>
             <h2>Contato</h2>
